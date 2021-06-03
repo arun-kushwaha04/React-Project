@@ -20,7 +20,7 @@ const Review = () => {
         <FaQuoteRight />
         </div>
       </div>
-        <h4>{name}</h4>
+        <h4 className="name">{name}</h4>
         <p className="job">{job}</p>
         <p>{text}</p>
       <div className="nav">

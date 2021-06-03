@@ -205,7 +205,12 @@ article:hover {
 }
 
 article .job {
-    text-transform: capitalize;
+    color: var(--clr-primary-6);
+    text-transform: uppercase;
+}
+
+article .name {
+    margin-top: 1rem;
 }
 
 .nav-dir {
@@ -234,6 +239,7 @@ article .job {
     border-radius: 0.3rem;
     margin-top: 0.5rem;
     transition: var(--transition);
+    cursor: pointer;
 }
 
 .btn:hover {
