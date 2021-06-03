@@ -136,12 +136,6 @@ section {
     text-align: center;
 }
 
-@media screen and (min-width: 992px) {
-    section {
-        width: 95vw;
-    }
-}
-
 section .underline {
     width: 8rem;
     height: 0.2rem;
@@ -157,6 +151,15 @@ article {
     margin: 0 auto;
     box-shadow: var(--light-shadow);
     transition: var(--transition);
+}
+
+@media screen and (max-width: 992px) {
+    section {
+        width: 100vw;
+    }
+    article {
+        width: 85%;
+    }
 }
 
 article:hover {
