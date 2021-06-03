@@ -163,7 +163,7 @@ article:hover {
     box-shadow: var(--dark-shadow);
 }
 
-.img {
+.img-div {
     position: relative;
     height: 10rem;
     width: 10rem;
@@ -171,7 +171,7 @@ article:hover {
     margin: 0 auto;
 }
 
-.img img {
+.img-div img {
     position: relative;
     width: 100%;
     height: 100%;
@@ -179,7 +179,7 @@ article:hover {
     object-fit: cover;
 }
 
-.img .quote-icon {
+.img-div .quote-icon {
     position: absolute;
     top: 0;
     left: 0;
@@ -193,7 +193,7 @@ article:hover {
     color: var(--clr-white);
 }
 
-.img::before {
+.img-div::before {
     content: " ";
     position: absolute;
     width: 100%;
