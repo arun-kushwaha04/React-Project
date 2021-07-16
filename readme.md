@@ -10,3 +10,4 @@
 > [Lorem-Ipsum-React-Project](https://arun-kushwaha04.github.io/Lorem-Ipsum-React-Project/)
 > [Color-Generator-React-Project](https://arun-kushwaha04.github.io/Color-Generator-React-Project/)
 > [Grocery-Bud-React-Project](https://arun-kushwaha04.github.io/Grocery-Bud-React-Project/)
+> [Navbar-React-Project](https://arun-kushwaha04.github.io/Navbar-React-Project/)
