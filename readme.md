@@ -12,3 +12,4 @@
 > [Color-Generator-React-Project](https://arun-kushwaha04.github.io/Color-Generator-React-Project/)<br>
 > [Grocery-Bud-React-Project](https://arun-kushwaha04.github.io/Grocery-Bud-React-Project/)<br>
 > [Navbar-React-Project](https://arun-kushwaha04.github.io/Navbar-React-Project/)<br>
+> [Sidebar-Modal-React-Project](https://arun-kushwaha04.github.io/Sidebar-Modal-React-Project/)<br>
